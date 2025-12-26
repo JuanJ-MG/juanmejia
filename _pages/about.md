@@ -29,8 +29,8 @@ A few things I work on (more in the **Projects** tab):
 
 ## Contact
 
-- LinkedIn: **(put your LinkedIn URL here)**
-- Email: **(put your email here)**
+- LinkedIn: (https://www.linkedin.com/in/juan-mejia-45573720a/)
+- Email: juan.mejiag1@icloud.com
 
 ---
 

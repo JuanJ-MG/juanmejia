@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Juan José Mejía"
+title: "Juan Mejia"
 author_profile: true
 redirect_from:
   - /about/

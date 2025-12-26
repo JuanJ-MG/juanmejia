@@ -4,7 +4,7 @@ juan:
   name        : "Juan Mejia"
   bio         : "Industrial Engineer at Textron Aviation. Background in aerospace engineering, optimization and gnc"
   location    : "Wichita, KS"
-  avatar      : "profile.png"
+  avatar      : "profile.jpg"
   links:
     - label: "LinkedIn"
       icon: "fab fa-linkedin"

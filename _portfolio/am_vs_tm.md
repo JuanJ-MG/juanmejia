@@ -3,7 +3,7 @@ title: "AM vs TM Optimization"
 collection: portfolio
 permalink: /projects/am-vs-tm/
 excerpt: "Multi-objective optimization comparing additive and traditional manufacturing under uncertainty."
-github_url: "https://github.com/JuanJ-MG/REPO_NAME"
+github_url: "https://github.com/JuanJ-MG/AM-vs-TM-MOO-Masters-Thesis-"
 share: false
 comments: false
 ---

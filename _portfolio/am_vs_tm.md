@@ -1,0 +1,13 @@
+---
+title: "AM vs TM Optimization"
+collection: portfolio
+permalink: /projects/am-vs-tm/
+excerpt: "Multi-objective optimization comparing additive and traditional manufacturing under uncertainty."
+github_url: "https://github.com/JuanJ-MG/REPO_NAME"
+share: false
+comments: false
+---
+
+- Multi-objective MILP (cost, time, performance)
+- Monte Carlo simulation
+- Aerospace manufacturing case study

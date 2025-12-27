@@ -69,7 +69,7 @@ My contributions spanned multiple subsystems, including:
 ## Resources
 
 - **GitHub repository (full report, figures, and documentation):**  
-  👉 [AIAA Space Mission Design Repository](https://github.com/JuanJ-MG/AIAA_Space-Mission-Design-202)
+  👉 [AIAA Space Mission Design Repository](https://github.com/JuanJ-MG/AIAA_Space-Mission-Design-2021)
 
 ---
 

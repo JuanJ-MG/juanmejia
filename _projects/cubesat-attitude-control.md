@@ -16,59 +16,49 @@ comments: false
 ## Overview
 
 This project was developed as a **final project for graduate-level Aerospace Control Systems and Aerospace Systems courses**.  
-The objective was to design and implement a **CubeSat command and data handling (C&DH) architecture** capable of stabilizing and controlling spacecraft attitude using **reaction wheels**.
+The goal was to design and implement a **CubeSat command and data handling (C&DH) architecture** capable of stabilizing and controlling spacecraft attitude using **reaction wheels**.
 
-The project emphasizes **control theory implementation, embedded systems, and aerospace systems integration**, rather than theoretical research.
+The work emphasizes **embedded control implementation and aerospace systems integration**, bridging control theory and real-time execution.
 
 ---
 
 ## System Description
 
-The CubeSat control system consists of the following components:
+The implemented system includes:
 
-- Embedded microcontroller-based command and data handling (C&DH)
+- Microcontroller-based C&DH architecture (ESP32)
 - Inertial Measurement Unit (IMU) for attitude sensing
 - Reaction wheels for attitude actuation
-- Real-time attitude estimation and control logic
+- Real-time attitude estimation and feedback control
 - Web-based interface for commanding and monitoring system behavior
-
-The system was designed to operate in real time, receiving commands, estimating spacecraft attitude, and generating control torques to regulate orientation.
 
 ---
 
 ## Control Approach
 
-The control architecture includes:
-
 - Attitude estimation using inertial sensor data
-- Feedback control laws for reaction wheel torque commands
-- Conversion of desired body torques into reaction wheel actuation
-- Closed-loop stabilization of spacecraft orientation
-
-The control logic was implemented directly on the embedded platform, emphasizing practical considerations such as timing, sensor noise, and actuator limitations.
+- Closed-loop feedback control for attitude stabilization
+- Mapping of desired body torques to reaction wheel commands
+- Real-time implementation with embedded timing and actuator constraints
 
 ---
 
 ## Software and Tools
 
-- **Embedded development:** ESP32 microcontroller
-- **Programming languages:** C/C++, JavaScript, HTML, CSS
+- **Embedded platform:** ESP32
+- **Languages:** C/C++, JavaScript, HTML, CSS
 - **Control implementation:** Real-time embedded control loops
 - **Interface:** Web-based command and visualization dashboard
 
 ---
 
-## Educational Context
+## Conference Paper
 
-This project served as a **capstone-style final project**, integrating concepts from:
-
-- Aerospace control systems
-- Spacecraft dynamics and attitude control
-- Embedded systems and real-time computing
-- Aerospace systems engineering
+A paper based on this project was accepted and presented at a **university-hosted engineering conference (CODEAC) in 2023**.  
+The paper focuses on the system architecture, control approach, and experimental results from the implemented CubeSat platform.
 
 ---
 
 ## Notes
 
-This project is presented as an **academic engineering course project** and is not intended as a research contribution or publication.
+This work is presented as an **academic engineering course project** with a related conference paper and is not positioned as a primary research contribution.
